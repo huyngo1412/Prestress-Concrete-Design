@@ -1,0 +1,50 @@
+﻿<UserControl x:Class="PTDesign.View.ControlBarView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PTDesign.View"
+             mc:Ignorable="d" 
+                          xmlns:i="http://schemas.microsoft.com/xaml/behaviors"
+             Background="#FFEAEAEA"
+             d:DesignWidth="1280"
+             Name="ControlBarUserControl">
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="MouseLeftButtonDown">
+            <i:InvokeCommandAction Command="{Binding MouseMoveWindowCommand}" CommandParameter="{Binding ElementName=ControlBarUserControl}"/>
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/PTDesign;component/Resource/Dictionary/StyleWindow.xaml"></ResourceDictionary>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <TextBlock Margin="15,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Left"  Style="{StaticResource Account Name TextBlock}" Text="Prestress Concrete Design" FontWeight="SemiBold"></TextBlock>
+        <StackPanel Orientation="Horizontal" Margin="0,0,2.5,0" Grid.Column="1" HorizontalAlignment="Right">
+            <Button Style="{StaticResource ControlBar Button}" Width="25"
+                Command="{Binding MiniMizeWindowCommand}"
+                CommandParameter="{Binding ElementName=ControlBarUserControl}" >
+                <Image Source="pack://application:,,,/PTDesign;component/Resource/Icon/Minimize.png"/>
+            </Button>
+            <Button Style="{StaticResource ControlBar Button}" Width="25"
+    Command="{Binding MaxiMizeWindowCommand}"
+    CommandParameter="{Binding ElementName=ControlBarUserControl}">
+                <Image Source="pack://application:,,,/PTDesign;component/Resource/Icon/Maximized.png"/>
+            </Button>
+            <Button Style="{StaticResource ControlBar Button}" Width="25"
+                Command="{Binding CloseWindowCommand}"
+                CommandParameter="{Binding ElementName=ControlBarUserControl}"
+                >
+                <Image Source="pack://application:,,,/PTDesign;component/Resource/Icon/Close.png"/>
+            </Button>
+        </StackPanel>
+    </Grid>
+</UserControl>

@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "PTDesign": {
+      "commandName": "Project"
+    },
+    "Acad": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\Autodesk\\AutoCAD 2022\\acad.exe"
+    }
+  }
+}

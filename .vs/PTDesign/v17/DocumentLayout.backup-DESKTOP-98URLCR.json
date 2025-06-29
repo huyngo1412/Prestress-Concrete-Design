@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\viewmodel\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\library\\assignload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\library\\assignload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\model\\etabsdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\model\\etabsdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\viewmodel\\controlbarviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\viewmodel\\controlbarviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD42C6A8-FC99-4048-BA62-955EE017140B}|PTDesignDWG\\PTDesignDWG.csproj|C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\ptdesigndwg\\createtendonprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD42C6A8-FC99-4048-BA62-955EE017140B}|PTDesignDWG\\PTDesignDWG.csproj|solutionrelative:ptdesigndwg\\createtendonprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\library\\segment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\library\\segment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\library\\identifyinflectionpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\library\\identifyinflectionpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\model\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\model\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\model\\beam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\model\\beam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\abtract\\ishapetypeframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\abtract\\ishapetypeframe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\model\\tendon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\model\\tendon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\model\\rectangular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\model\\rectangular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\viewmodel\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\resource\\dictionary\\buttonstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\resource\\dictionary\\buttonstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD42C6A8-FC99-4048-BA62-955EE017140B}|PTDesignDWG\\PTDesignDWG.csproj|C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\ptdesigndwg\\edittendonprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD42C6A8-FC99-4048-BA62-955EE017140B}|PTDesignDWG\\PTDesignDWG.csproj|solutionrelative:ptdesigndwg\\edittendonprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD42C6A8-FC99-4048-BA62-955EE017140B}|PTDesignDWG\\PTDesignDWG.csproj|C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\ptdesigndwg\\readfilexml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD42C6A8-FC99-4048-BA62-955EE017140B}|PTDesignDWG\\PTDesignDWG.csproj|solutionrelative:ptdesigndwg\\readfilexml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4568971-8BCF-48EB-9630-53D9B11F39D6}|PTDesignRVT\\PTDesignRVT.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesignrvt\\ptdesignrvt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4568971-8BCF-48EB-9630-53D9B11F39D6}|PTDesignRVT\\PTDesignRVT.csproj|solutionrelative:ptdesignrvt\\ptdesignrvt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\ptdesign.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\ptdesign.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\model\\tendonprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\model\\tendonprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\abtract\\shapeinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\abtract\\shapeinstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\model\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\model\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\library\\textboxupdateonenterorlostfocusbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\library\\textboxupdateonenterorlostfocusbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\model\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\model\\floor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\view\\controlbarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\view\\controlbarview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\resource\\icon\\close.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\resource\\icon\\close.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\resource\\dictionary\\stylewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\resource\\dictionary\\stylewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\view\\controlbarview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\view\\controlbarview.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|c:\\users\\huy\\onedrive - the university of technology\\datn\\ptdesign\\ptdesign\\abtract\\isetdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1A10002-51DA-42E0-AA44-7D95A2FB4716}|PTDesign\\PTDesign.csproj|solutionrelative:ptdesign\\abtract\\isetdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 122,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReadFileXML.cs",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesignDWG\\ReadFileXML.cs",
+              "RelativeDocumentMoniker": "PTDesignDWG\\ReadFileXML.cs",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesignDWG\\ReadFileXML.cs",
+              "RelativeToolTip": "PTDesignDWG\\ReadFileXML.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAiwH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T23:38:38.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Segment.cs",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Library\\Segment.cs",
+              "RelativeDocumentMoniker": "PTDesign\\Library\\Segment.cs",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Library\\Segment.cs",
+              "RelativeToolTip": "PTDesign\\Library\\Segment.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAGgAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:22:38.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditTendonProfile.cs",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesignDWG\\EditTendonProfile.cs",
+              "RelativeDocumentMoniker": "PTDesignDWG\\EditTendonProfile.cs",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesignDWG\\EditTendonProfile.cs",
+              "RelativeToolTip": "PTDesignDWG\\EditTendonProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T02:23:23.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Floor.cs",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Model\\Floor.cs",
+              "RelativeDocumentMoniker": "PTDesign\\Model\\Floor.cs",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Model\\Floor.cs",
+              "RelativeToolTip": "PTDesign\\Model\\Floor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T02:10:17.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateTendonProfile.cs",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesignDWG\\CreateTendonProfile.cs",
+              "RelativeDocumentMoniker": "PTDesignDWG\\CreateTendonProfile.cs",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesignDWG\\CreateTendonProfile.cs",
+              "RelativeToolTip": "PTDesignDWG\\CreateTendonProfile.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAAAPQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T02:05:25.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PTDesignRVT.csproj",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesignRVT\\PTDesignRVT.csproj",
+              "RelativeDocumentMoniker": "PTDesignRVT\\PTDesignRVT.csproj",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesignRVT\\PTDesignRVT.csproj",
+              "RelativeToolTip": "PTDesignRVT\\PTDesignRVT.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T02:04:56.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssignLoad.cs",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Library\\AssignLoad.cs",
+              "RelativeDocumentMoniker": "PTDesign\\Library\\AssignLoad.cs",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Library\\AssignLoad.cs",
+              "RelativeToolTip": "PTDesign\\Library\\AssignLoad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:55:39.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IdentifyInflectionPoints.cs",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Library\\IdentifyInflectionPoints.cs",
+              "RelativeDocumentMoniker": "PTDesign\\Library\\IdentifyInflectionPoints.cs",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Library\\IdentifyInflectionPoints.cs",
+              "RelativeToolTip": "PTDesign\\Library\\IdentifyInflectionPoints.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwEsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:13:20.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TendonProfile.cs",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Model\\TendonProfile.cs",
+              "RelativeDocumentMoniker": "PTDesign\\Model\\TendonProfile.cs",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Model\\TendonProfile.cs",
+              "RelativeToolTip": "PTDesign\\Model\\TendonProfile.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAEgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:05:09.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Close.png - PNG [50x50, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Resource\\Icon\\Close.png",
+              "RelativeDocumentMoniker": "PTDesign\\Resource\\Icon\\Close.png",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Resource\\Icon\\Close.png - PNG [50x50, 32 bit, PNG]",
+              "RelativeToolTip": "PTDesign\\Resource\\Icon\\Close.png - PNG [50x50, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-09T17:02:08.184Z",
+              "EditorCaption": " - PNG [50x50, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Story.cs",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Model\\Story.cs",
+              "RelativeDocumentMoniker": "PTDesign\\Model\\Story.cs",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Model\\Story.cs",
+              "RelativeToolTip": "PTDesign\\Model\\Story.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T16:15:04.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StyleWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Resource\\Dictionary\\StyleWindow.xaml",
+              "RelativeDocumentMoniker": "PTDesign\\Resource\\Dictionary\\StyleWindow.xaml",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Resource\\Dictionary\\StyleWindow.xaml",
+              "RelativeToolTip": "PTDesign\\Resource\\Dictionary\\StyleWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-09T11:19:15.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TextBoxUpdateOnEnterOrLostFocusBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Library\\TextBoxUpdateOnEnterOrLostFocusBehavior.cs",
+              "RelativeDocumentMoniker": "PTDesign\\Library\\TextBoxUpdateOnEnterOrLostFocusBehavior.cs",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Library\\TextBoxUpdateOnEnterOrLostFocusBehavior.cs",
+              "RelativeToolTip": "PTDesign\\Library\\TextBoxUpdateOnEnterOrLostFocusBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:16:26.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ControlBarView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\View\\ControlBarView.xaml.cs",
+              "RelativeDocumentMoniker": "PTDesign\\View\\ControlBarView.xaml.cs",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\View\\ControlBarView.xaml.cs",
+              "RelativeToolTip": "PTDesign\\View\\ControlBarView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:14:07.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControlBarViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\ViewModel\\ControlBarViewModel.cs",
+              "RelativeDocumentMoniker": "PTDesign\\ViewModel\\ControlBarViewModel.cs",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\ViewModel\\ControlBarViewModel.cs",
+              "RelativeToolTip": "PTDesign\\ViewModel\\ControlBarViewModel.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAqwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T11:13:21.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ControlBarView.xaml",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\View\\ControlBarView.xaml",
+              "RelativeDocumentMoniker": "PTDesign\\View\\ControlBarView.xaml",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\View\\ControlBarView.xaml",
+              "RelativeToolTip": "PTDesign\\View\\ControlBarView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-09T11:11:21.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ButtonStyle.xaml",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Resource\\Dictionary\\ButtonStyle.xaml",
+              "RelativeDocumentMoniker": "PTDesign\\Resource\\Dictionary\\ButtonStyle.xaml",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Resource\\Dictionary\\ButtonStyle.xaml",
+              "RelativeToolTip": "PTDesign\\Resource\\Dictionary\\ButtonStyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-09T11:05:13.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ShapeInstance.cs",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Abtract\\ShapeInstance.cs",
+              "RelativeDocumentMoniker": "PTDesign\\Abtract\\ShapeInstance.cs",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Abtract\\ShapeInstance.cs",
+              "RelativeToolTip": "PTDesign\\Abtract\\ShapeInstance.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:06:45.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IShapeTypeFrame.cs",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Abtract\\IShapeTypeFrame.cs",
+              "RelativeDocumentMoniker": "PTDesign\\Abtract\\IShapeTypeFrame.cs",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Abtract\\IShapeTypeFrame.cs",
+              "RelativeToolTip": "PTDesign\\Abtract\\IShapeTypeFrame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:04:16.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ISetData.cs",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Abtract\\ISetData.cs",
+              "RelativeDocumentMoniker": "PTDesign\\Abtract\\ISetData.cs",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Abtract\\ISetData.cs",
+              "RelativeToolTip": "PTDesign\\Abtract\\ISetData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:04:03.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Model\\FileManager.cs",
+              "RelativeDocumentMoniker": "PTDesign\\Model\\FileManager.cs",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Model\\FileManager.cs",
+              "RelativeToolTip": "PTDesign\\Model\\FileManager.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwDQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T07:02:10.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EtabsDataStore.cs",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Model\\EtabsDataStore.cs",
+              "RelativeDocumentMoniker": "PTDesign\\Model\\EtabsDataStore.cs",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Model\\EtabsDataStore.cs",
+              "RelativeToolTip": "PTDesign\\Model\\EtabsDataStore.cs",
+              "ViewState": "AgIAAEABAAAAAAAAAAAkwEwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:36:32.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Rectangular.cs",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Model\\Rectangular.cs",
+              "RelativeDocumentMoniker": "PTDesign\\Model\\Rectangular.cs",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Model\\Rectangular.cs",
+              "RelativeToolTip": "PTDesign\\Model\\Rectangular.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:33:20.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Beam.cs",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Model\\Beam.cs",
+              "RelativeDocumentMoniker": "PTDesign\\Model\\Beam.cs",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Model\\Beam.cs",
+              "RelativeToolTip": "PTDesign\\Model\\Beam.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwEkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T06:32:24.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "PTDesign\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\AssemblyInfo.cs",
+              "RelativeToolTip": "PTDesign\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T04:31:44.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "PTDesign\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\ViewModel\\MainViewModel.cs*",
+              "RelativeToolTip": "PTDesign\\ViewModel\\MainViewModel.cs*",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAnwKMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T04:30:56.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Tendon.cs",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Model\\Tendon.cs",
+              "RelativeDocumentMoniker": "PTDesign\\Model\\Tendon.cs",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\Model\\Tendon.cs",
+              "RelativeToolTip": "PTDesign\\Model\\Tendon.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAH4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T04:21:09.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\ViewModel\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "PTDesign\\ViewModel\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\ViewModel\\ViewModelBase.cs",
+              "RelativeToolTip": "PTDesign\\ViewModel\\ViewModelBase.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:17:45.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\ViewModel\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "PTDesign\\ViewModel\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\ViewModel\\RelayCommand.cs",
+              "RelativeToolTip": "PTDesign\\ViewModel\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:16:01.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PTDesign.csproj",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\PTDesign.csproj",
+              "RelativeDocumentMoniker": "PTDesign\\PTDesign.csproj",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\PTDesign.csproj",
+              "RelativeToolTip": "PTDesign\\PTDesign.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-09T03:10:58.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PTDesign\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\MainWindow.xaml",
+              "RelativeToolTip": "PTDesign\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-09T03:10:51.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PTDesign\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\huy\\OneDrive - The University of Technology\\DATN\\PTDesign\\PTDesign\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PTDesign\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAwwBUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T03:10:47.381Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

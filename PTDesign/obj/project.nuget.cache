@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vK0lxkcxKkE=",
+  "success": true,
+  "projectFilePath": "D:\\PTDesign\\PTDesign\\PTDesign.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\huy\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.135\\microsoft.xaml.behaviors.wpf.1.1.135.nupkg.sha512",
+    "C:\\Users\\huy\\.nuget\\packages\\system.valuetuple\\4.6.1\\system.valuetuple.4.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}

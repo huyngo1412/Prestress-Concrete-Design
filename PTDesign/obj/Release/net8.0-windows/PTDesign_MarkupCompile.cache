@@ -1,0 +1,20 @@
+﻿PTDesign
+
+
+winexe
+C#
+.cs
+C:\Users\huy\OneDrive - The University of Technology\DATN\PTDesign\PTDesign\obj\Release\net8.0-windows\
+PTDesign
+none
+false
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP
+C:\Users\huy\OneDrive - The University of Technology\DATN\PTDesign\PTDesign\App.xaml
+101116762554
+
+261794737102
+200-542990475
+MainWindow.xaml;Resource\Dictionary\ButtonStyle.xaml;Resource\Dictionary\ComboboxStyle.xaml;Resource\Dictionary\GroupBoxStyle.xaml;Resource\Dictionary\RibbonControlStyle.xaml;Resource\Dictionary\StyleWindow.xaml;Resource\Dictionary\TabControlStyle.xaml;Resource\Dictionary\TextBlockStyle.xaml;Resource\Dictionary\TextBoxStyle.xaml;View\ControlBarView.xaml;
+
+True
+
